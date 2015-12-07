@@ -1,0 +1,4 @@
+Andy (2003, October 10). JScrollpane - Force autoscroll to bottom. Retrieved December 6, 2015 from http://www.coderanch.com/t/329964/GUI/java/JScrollpane-Force-autoscroll-bottom
+Beng, J. (2011). Java Web Server. Retrieved December 6, 2015 from http://fragments.turtlemeat.com/javawebserver.php
+Darwin, I. (2004). Print all the strings that match a given pattern from a file. Retrieved December 6, 2015 from http://www.java2s.com/Code/Java/Regular-Expressions/Printallthestringsthatmatchagivenpatternfromafile.htm
+Materialize (2014). Templates. Retrieved December 6, 2015 from http://materializecss.com/templates/starter-template/preview.html
